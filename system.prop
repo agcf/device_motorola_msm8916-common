@@ -156,3 +156,6 @@ wifi.interface=wlan0
 
 # Disable oem unlock
 ro.oem_unlock_supported=false
+
+# Memory Optimizations
+ro.vendor.qti.sys.fw.bservice_enable=true
